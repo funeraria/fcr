@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://my.funerariacristoredentor.pt/httpdocs/laravel/public'),
+    'url' => env('APP_URL', 'http://my.funerariacristoredentor.pt/laravel/public'),
 
     /*
     |--------------------------------------------------------------------------
